@@ -1,0 +1,3 @@
+[submodule "alfred"]
+	path = alfred
+	url = https://github.com/open-mesh-mirror/alfred.git

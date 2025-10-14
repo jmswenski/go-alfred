@@ -1,0 +1,22 @@
+.gocache/
+
+# IDE/editor state
+.idea/
+*.swp
+*.swo
+
+# Go build outputs
+demo-server
+demo-client
+*.out
+*.test
+
+# cgo artifacts
+*.o
+*.a
+*.so
+*.lo
+
+# Runtime sockets/logs
+tmp/
+*.log
